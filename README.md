@@ -6,6 +6,7 @@
 
 ## create branch project
 
+### `git checkout master`
 ### `git checkout -b  project-branch-name`
 
 
